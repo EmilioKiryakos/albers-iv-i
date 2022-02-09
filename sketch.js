@@ -1,10 +1,11 @@
 let clrs = {
-  top:'#E27F34',
+  top:'#FF0000',
   m1: '#FEF254',
   m2: '#042060',
-  bottom: '#3778AE',
-  strip: '#A36C33',
+  bottom: '#FF9300',
+  strip: '#FFE800',
 }
+
 function setup() {
   createCanvas(windowWidth, windowHeight);
 }
