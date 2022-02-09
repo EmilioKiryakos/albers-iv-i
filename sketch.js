@@ -1,12 +1,13 @@
 //test
 
 let clrs = {
-  top:'red',
-  m1: 'yellow',
-  m2: 'green',
-  bottom: 'blue',
+  top:'black',
+  m1: 'white',
+  m2: 'black',
+  bottom: 'white',
   strip: 'purple',
 }
+
 function setup() {
   createCanvas(windowWidth, windowHeight);
 }
